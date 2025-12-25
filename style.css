@@ -303,6 +303,26 @@ button {
     flex: 1;
 }
 
+#history span {
+    color: #ffffff;
+}
+
+#history .exercise-name {
+    color: #ffffff;
+    font-weight: 600;
+}
+
+#history .exercise-values {
+    color: #ffffff;
+    font-size: 14px;
+}
+
+#history h2 {
+    color: #ffffff;
+    font-weight: 700;
+}
+
+
 /* =====================
    Kleine Screens
 ===================== */

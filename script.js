@@ -142,7 +142,7 @@ document.addEventListener("DOMContentLoaded", function() {
                 exCard.style.borderRadius = "10px";
                 exCard.style.padding = "12px";
                 exCard.style.marginBottom = "10px";
-                exCard.style.background = "#f9f9f9";
+                exCard.style.background = "#171a23ff";
                 exCard.style.boxShadow = "0 2px 4px rgba(0,0,0,0.1)";
                 exCard.style.display = "flex";
                 exCard.style.justifyContent = "space-between";
@@ -174,7 +174,7 @@ document.addEventListener("DOMContentLoaded", function() {
         backButton.textContent = "Zurück zu Tagen";
         backButton.style.display = "block";
         backButton.style.width = "50%";
-        backButton.style.margin = "20px auto 0 auto";
+        backButton.style.margin = "20px auto 20px auto";
         backButton.style.padding = "10px";
         backButton.style.border = "none";
         backButton.style.borderRadius = "8px";
