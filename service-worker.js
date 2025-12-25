@@ -1,4 +1,4 @@
-const cacheName = "trainingsplan-v1";
+const cacheName = "trainingsplan-v2";
 const assetsToCache = [
     "./",
     "./index.html",
